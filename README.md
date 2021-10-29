@@ -6,5 +6,3 @@
 
 ## Quer testar.
 Link Demo: https://sistemas1309.000webhostapp.com/ConsumindoAPICEP/index.php
-
-Consumindo API CEP
